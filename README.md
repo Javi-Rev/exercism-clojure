@@ -1,5 +1,6 @@
-# Exercism Clojure
+# EXERCISM CLOJURE
 
 
-# COMPLETED
+# Completed
+
 * Two-Fer
