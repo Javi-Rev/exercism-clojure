@@ -1,6 +1,6 @@
 # EXERCISM CLOJURE
 
 
-# Completed
+Completed
 
 * Two-Fer
